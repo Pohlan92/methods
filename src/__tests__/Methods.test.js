@@ -1,4 +1,4 @@
-import Swordsman from '../js/Swordsman';
+import Swordsman from '../js/Swordsman'
 
 test('testing methods', () => {
   const player = new Swordsman('Robin');
