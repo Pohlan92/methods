@@ -30,4 +30,4 @@ export default class Character {
       throw new Error('Нельзя причинить вред умершему');
     }
   }
-
+}
